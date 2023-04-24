@@ -1,0 +1,11 @@
+C:\Users\Alumno\source\repos\pryMamondezAutoEvaluacion\bin\Debug\pryMamondezAutoEvaluacion.exe.config
+C:\Users\Alumno\source\repos\pryMamondezAutoEvaluacion\bin\Debug\pryMamondezAutoEvaluacion.exe
+C:\Users\Alumno\source\repos\pryMamondezAutoEvaluacion\bin\Debug\pryMamondezAutoEvaluacion.pdb
+C:\Users\Alumno\source\repos\pryMamondezAutoEvaluacion\obj\Debug\pryMamondezAutoEvaluacion.csproj.AssemblyReference.cache
+C:\Users\Alumno\source\repos\pryMamondezAutoEvaluacion\obj\Debug\pryMamondezAutoEvaluacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumno\source\repos\pryMamondezAutoEvaluacion\obj\Debug\pryMamondezAutoEvaluacion.frmPrincipal.resources
+C:\Users\Alumno\source\repos\pryMamondezAutoEvaluacion\obj\Debug\pryMamondezAutoEvaluacion.Properties.Resources.resources
+C:\Users\Alumno\source\repos\pryMamondezAutoEvaluacion\obj\Debug\pryMamondezAutoEvaluacion.csproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\pryMamondezAutoEvaluacion\obj\Debug\pryMamondezAutoEvaluacion.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\pryMamondezAutoEvaluacion\obj\Debug\pryMamondezAutoEvaluacion.exe
+C:\Users\Alumno\source\repos\pryMamondezAutoEvaluacion\obj\Debug\pryMamondezAutoEvaluacion.pdb
